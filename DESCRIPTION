@@ -1,0 +1,18 @@
+Type: Package
+Package: mrmaterials
+Title: input data generation for material flow analysis models
+Version: 0.0.2
+Date: 2024-05-07
+Authors@R: c(
+    person("Falk", "Benke", , "benke@pik-potsdam.de", role = c("aut", "cre")),
+    person("Jakob", "Dürrwächter", role = "aut")
+  )
+Description: Input data generation for material flow analysis models using the madrat framework.
+License: LGPL-3
+URL: https://github.com/pik-piam/mrmaterials
+Depends:
+    madrat (>= 3.10.0)
+Suggests:
+    testthat
+Encoding: UTF-8
+RoxygenNote: 7.3.1

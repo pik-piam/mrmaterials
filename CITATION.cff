@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+title: 'mrmaterials: input data generation for material flow analysis models'
+version: 0.0.2
+date-released: '2024-05-07'
+abstract: Input data generation for material flow analysis models using the madrat
+  framework.
+authors:
+- family-names: Benke
+  given-names: Falk
+  email: benke@pik-potsdam.de
+- family-names: Dürrwächter
+  given-names: Jakob
+license: LGPL-3.0
+repository-code: https://github.com/pik-piam/mrmaterials
+
